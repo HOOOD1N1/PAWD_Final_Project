@@ -1,0 +1,4 @@
+id,username,password,projects_count,completed_projects_count
+1,student,123,4,0
+2,guest,325,0,0
+3,admin,admin,3,0

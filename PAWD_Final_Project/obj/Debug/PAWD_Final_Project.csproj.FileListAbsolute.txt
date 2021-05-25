@@ -1,0 +1,12 @@
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.csprojAssemblyReference.cache
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.Chart.resources
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.Login.resources
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.Main.resources
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.Properties.Resources.resources
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.csproj.GenerateResource.cache
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.csproj.CoreCompileInputs.cache
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\bin\Debug\PAWD_Final_Project.exe.config
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\bin\Debug\PAWD_Final_Project.exe
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\bin\Debug\PAWD_Final_Project.pdb
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.exe
+D:\Users\Acer-Tex\Documents\Faculta 3\PAWD\PAWD_Final_Project\PAWD_Final_Project\obj\Debug\PAWD_Final_Project.pdb
